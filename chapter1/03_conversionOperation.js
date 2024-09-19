@@ -15,11 +15,11 @@ let boolenIsLoggedIn= Boolean(isLoggedIn)
 console.log(boolenIsLoggedIn);
 
 
-// 1 => Ture  0=> false
 // "" => false
 // "sania" => True
+// 1 => Ture  0=> false
 
-let isSomeNumber = 22
+let isSomeNumber = 26
 let stringNumber = String(isSomeNumber)
 
 console.log(stringNumber);
