@@ -1,0 +1,38 @@
+// Dates
+
+let myData = new Date()
+console.log(myData.toString);
+console.log(myData.toDateString());
+console.log(myData.toLocaleDateString());
+console.log(typeof myData);
+
+
+//let myCreatedDate = new Date(2024, 0, 23)
+//let myCreatedDate = new Date(2024, 0, 23)
+//let myCreatedDate = new Date("2024-01-14")
+//let myCreatedDate = new Date("01-14-2023")
+//console.log(myCreatedDate.toLocaleString());
+
+console.log(MyTimesStamp);
+console.log(myCreatedDate.getTime());
+console.log(Math.floor(Data.now()/1000));
+
+let newDate = new Data()
+console.log(newDate);
+
+console.log(newDate.getMonth());
+console.log(newDate.getDay());
+
+//`${newDate.getDay} and the time`
+
+newDate.toDateString('default', {
+    weekday: "long",
+})
+
+
+
+
+
+
+
+
